@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KennethYoel
-- 👀 Passionate about mechanical devices that simulate physical systems such as Lego's, and stories of old that I can get lost in.
+- 👀 When I'm not making mobile apps, I enjoy  simulating physical systems with Lego's or with computing tools, and getting lost in stories, stories of old. And baking all sorts of breads and pastries because baking and coding goes hand in hand.
 - 🌱 I’m currently learning iOS development
 - 📫 How to reach me? hello@kennethgutierrez.com
 
